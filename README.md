@@ -1,3 +1,4 @@
+
 ---
 
 # 🎮 Jogo do Número Secreto 🤫
